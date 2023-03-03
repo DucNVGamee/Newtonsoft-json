@@ -12,4 +12,6 @@ This package is intended to be inherited as a dependency, and should not be dire
 
 Add the lines below to ``Packages/manifest.json``
 
-```"com.unity.nuget.newtonsoft-json": "https://github.com/DucNVGamee/Newtonsoft-json.git#3.0.2",```
+```
+"com.unity.nuget.newtonsoft-json": "https://github.com/DucNVGamee/Newtonsoft-json.git#3.0.2",
+```
